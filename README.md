@@ -5,7 +5,6 @@ The project entails the development of a comprehensive task management applicati
 The project is based on:
 * Recact,
 * TypeScript,
-* Sass,
 * CSS,
 * HTML,
 * Linter.
